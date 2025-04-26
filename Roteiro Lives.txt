@@ -1,0 +1,31 @@
+Roteiro da automação das lives
+
+1.	Culto Matinal
+a.	Ligar o computador antes das 10h00;
+b.	Às 10h00 o OBS será aberto automaticamente;
+c.	Às 10h01 o Holyrics será aberto automaticamente;
+d.	Às 10h10 a live e a contagem regressiva serão iniciadas;
+e.	Às 10h15 o OBS fará a transição para a cena Central automaticamente.
+
+2.	Culto de Louvor e Adoração
+a.	Ligar o computador antes das 18h45;
+b.	Às 18h45 o OBS será aberto automaticamente;
+c.	Às 18h46 o Holyrics será aberto automaticamente;
+d.	Às 18h55 a live e a contagem regressiva serão iniciadas;
+e.	Às 19h00 o OBS fará a transição para a cena Central automaticamente.
+
+3.	Culto da Palavra
+a.	Ligar o computador antes das 19h15;
+b.	Às 19h15 o OBS será aberto automaticamente;
+c.	Às 19h16 o Holyrics será aberto automaticamente;
+d.	Às 19h25 a live e a contagem regressiva serão iniciadas;
+e.	Às 19h30 o OBS fará a transição para a cena Central automaticamente.
+
+4.	Quarta Profética
+a.	Ligar o computador antes das 19h15;
+b.	Às 19h15 o OBS será aberto automaticamente;
+c.	Às 19h16 o Holyrics será aberto automaticamente;
+d.	Às 19h25 a live e a contagem regressiva serão iniciadas;
+e.	Às 19h30 o OBS fará a transição para a cena Central automaticamente.
+
+Como ainda não encontrei uma solução para o Culto de Santa Ceia, eu estarei na mídia nesses dias.
